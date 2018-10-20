@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Geraldo's blog
 
-I'm glad you are here. I plan to talk about ...
+Today I'm lerning about Git stuff.
